@@ -33,8 +33,8 @@ class Solution:
 
 
 
-Sean = Solution()
-print(Sean.TwoSum([0,2,2,5],4))
-print(Sean.ListTwoSum([0,2,2,5],4))
-print(Sean.DictTwoSum([0,2,2,5],4))
-print(Sean.DictTwoSum([2,7,11,15],9))
+Test = Solution()
+print(Test.TwoSum([0,2,2,5],4))
+print(Test.ListTwoSum([0,2,2,5],4))
+print(Test.DictTwoSum([0,2,2,5],4))
+print(Test.DictTwoSum([2,7,11,15],9))
